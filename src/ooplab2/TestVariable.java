@@ -1,4 +1,7 @@
+package ooplab2;
+
 public class TestVariable {
+
     public static void main(String[] args) {
 
 //        Integer
@@ -63,5 +66,3 @@ public class TestVariable {
 
 
 }//class
-
-
